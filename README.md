@@ -36,15 +36,18 @@ Prerequisites
 
 Steps to Run the Project
 
-    Clone the repository:
+Clone the repository-
 
 git clone https://github.com/your-username/twitter-like-app.git
+
 cd twitter-like-app
 
 Create and activate a virtual environment:
 
 python -m venv venv
+
 venv\Scripts\activate  # For Windows
+
 source venv/bin/activate  # For Linux/macOS
 
 Install required dependencies:
